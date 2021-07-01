@@ -11,3 +11,10 @@ for (int x = 0; x < n; x+=k) {
 // 2+ 2n/k + cn/k
 //Complexity - O(2n/k) roughly => O(n)
 
+for (int i=0; i<n; i++){
+    for (int j=0; j<m; j++){
+        //Statement(s) that take(s) constant time
+    }
+}
+
+// Complexity - O(nm)
