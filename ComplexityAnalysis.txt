@@ -1,0 +1,13 @@
+for (int x = 0; x < n; x++) {
+    //statement(s) that take constant time
+}
+
+// Complexity - O(n)
+
+for (int x = 0; x < n; x+=k) {
+    //statement(s) that take constant time
+}
+
+// 2+ 2n/k + cn/k
+//Complexity - O(2n/k) roughly => O(n)
+
